@@ -29,7 +29,7 @@ body {
 }
 .border-success{
     border-style: solid !important;
-    border-color: teal;
+    border-color: teal !important;
     border-width: 2px;
 }
 .dropdown-item.active{
